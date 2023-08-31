@@ -1,4 +1,4 @@
-/* 2)Escreva um programa que leia um número e verifique se ele é maior, menor ou igual a 10*/
+/* 2)Escreva um programa que leia um nÃºmero e verifique se ele Ã© maior, menor ou igual a 10*/
 #include <stdio.h>
 
 int main()
