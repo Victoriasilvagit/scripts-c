@@ -1,5 +1,5 @@
-/*5) Ler três valores inteiros diferentes e colocá-los em ordem crescente. Os valores 
-devem ser apresentadoscom uma instrução:
+/*5) Ler trÃªs valores inteiros diferentes e colocÃ¡-los em ordem crescente. Os valores 
+devem ser apresentadoscom uma instruÃ§Ã£o:
 printf("Menor: %d Meio: %d Maior: %d\n", menor, meio, maior);*/
 
 #include <stdio.h>
