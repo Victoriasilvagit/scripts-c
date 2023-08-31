@@ -1,10 +1,10 @@
-/*2) Uma árvore de decisão obtém a decisão pela execução de uma sequência de testes. Cada nó interno da árvore
-corresponde a um teste do valor de uma das propriedades e os ramos deste nó são identificados com os possíveis
-valores do teste. Cada nó folha da árvore especifica o valor de retorno se a folha for atingida. A figura a seguir
-apresenta um exemplo fictício de árvore de decisão, tomando atributos de clientes de uma instituição financeira.
-Elabore um programa que implemente essa árvore de decisão. As entradas podem ser do tipo char, portanto, considere
-a primeira letra de cada palavra como entrada. Caso o usuário informe um caractere diferente dos aceitáveis, apresente
-a mensagem "Caractere inválido".*/
+/*2) Uma Ã¡rvore de decisÃ£o obtÃ©m a decisÃ£o pela execuÃ§Ã£o de uma sequÃªncia de testes. Cada nÃ³ interno da Ã¡rvore
+corresponde a um teste do valor de uma das propriedades e os ramos deste nÃ³ sÃ£o identificados com os possÃ­veis
+valores do teste. Cada nÃ³ folha da Ã¡rvore especifica o valor de retorno se a folha for atingida. A figura a seguir
+apresenta um exemplo fictÃ­cio de Ã¡rvore de decisÃ£o, tomando atributos de clientes de uma instituiÃ§Ã£o financeira.
+Elabore um programa que implemente essa Ã¡rvore de decisÃ£o. As entradas podem ser do tipo char, portanto, considere
+a primeira letra de cada palavra como entrada. Caso o usuÃ¡rio informe um caractere diferente dos aceitÃ¡veis, apresente
+a mensagem "Caractere invÃ¡lido".*/
 #include<stdio.h>
  int main ()
  {
