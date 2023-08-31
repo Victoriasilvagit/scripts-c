@@ -1,5 +1,5 @@
-/*8) Ler um número inteiro com até 5 dígitos. Separar os dígitos desse número e mostrá-los em linhas distintas.
-Também calcular e mostrar a soma dos dígitos.*/
+/*8) Ler um nÃºmero inteiro com atÃ© 5 dÃ­gitos. Separar os dÃ­gitos desse nÃºmero e mostrÃ¡-los em linhas distintas.
+TambÃ©m calcular e mostrar a soma dos dÃ­gitos.*/
 
 #include <stdio.h>
 
