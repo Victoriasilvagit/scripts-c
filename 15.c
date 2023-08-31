@@ -1,4 +1,4 @@
-/*3) Escreva um programa que leia um número e verifique se ele se encontra no intervalo entre 5 e 20 ou fora
+/*3) Escreva um programa que leia um nÃºmero e verifique se ele se encontra no intervalo entre 5 e 20 ou fora
 do fora do intervalo entre 5 e 20. */
 #include <stdio.h>
 
