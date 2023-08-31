@@ -1,11 +1,11 @@
- /*4) FaÁa um programa que leia trÍs notas de um aluno e calcule a mÈdia ponderada, com os pesos 1, 3 e 4,
+ /*4) Fa√ßa um programa que leia tr√™s notas de um aluno e calcule a m√©dia ponderada, com os pesos 1, 3 e 4,
 respectivamente, e:
-a) Se a mÈdia obtida est· entre 6 a 10 informar que o aluno est· aprovado;
-b) Se a mÈdia obtida est· entre 4 e 5,9 informar que o aluno est· em recuperaÁ„o. Nesse caso, ler a nota de
-recuperaÁ„o e calcular a mÈdia final (que È a mÈdia entre a mÈdia anual e a nota de recuperaÁ„o);
-b.1) Se a mÈdia final È menor que 5 informar que o aluno est· reprovado apÛs recuperaÁ„o;
-b.2) Se È igual ou maior que 5 informar que o aluno est· aprovado apÛs recuperaÁ„o;
-c) Se a mÈdia obtida È menor que 4 informar que o aluno est· reprovado antes da recuperaÁ„o.*/
+a) Se a m√©dia obtida est√° entre 6 a 10 informar que o aluno est√° aprovado;
+b) Se a m√©dia obtida est√° entre 4 e 5,9 informar que o aluno est√° em recupera√ß√£o. Nesse caso, ler a nota de
+recupera√ß√£o e calcular a m√©dia final (que √© a m√©dia entre a m√©dia anual e a nota de recupera√ß√£o);
+b.1) Se a m√©dia final √© menor que 5 informar que o aluno est√° reprovado ap√≥s recupera√ß√£o;
+b.2) Se √© igual ou maior que 5 informar que o aluno est√° aprovado ap√≥s recupera√ß√£o;
+c) Se a m√©dia obtida √© menor que 4 informar que o aluno est√° reprovado antes da recupera√ß√£o.*/
  
  #include <stdio.h>
 
