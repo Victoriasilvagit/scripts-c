@@ -1,7 +1,7 @@
-/*6) Ler o gênero (F ou f para feminino, M ou m para masculino.
-Para qualquer outro caractere informar que é inválido e finalizar
- o programa). Se informado um caractere válido, ler a altura da pessoa e calcular e mostrar
-o seu peso ideal, utilizando as seguintes fórmulas:
+/*6) Ler o gÃªnero (F ou f para feminino, M ou m para masculino.
+Para qualquer outro caractere informar que Ã© invÃ¡lido e finalizar
+ o programa). Se informado um caractere vÃ¡lido, ler a altura da pessoa e calcular e mostrar
+o seu peso ideal, utilizando as seguintes fÃ³rmulas:
 a) Para homens: (72.7 * h) - 58;
 b) Para mulheres: (62.1 * h) - 44.7.*/
 #include<stdio.h>
