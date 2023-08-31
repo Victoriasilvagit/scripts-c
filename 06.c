@@ -1,4 +1,4 @@
-/*6) Fazer um programa que leia um valor double que representa o sal·rio de uma pessoa. Apresente
+/*6) Fazer um programa que leia um valor double que representa o sal√°rio de uma pessoa. Apresente
 separadamente os reais (parte inteira) e os centavos (parte decimal).*/
 
 #include <stdio.h>
