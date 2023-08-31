@@ -1,5 +1,5 @@
-/*1) Ler um número double. Separar a parte inteira e a parte decimal desse número. Apresentar a parte decimal
-como um valor double e como um inteiro de três dígitos. Da parte inteira separar o número que representa
+/*1) Ler um nÃºmero double. Separar a parte inteira e a parte decimal desse nÃºmero. Apresentar a parte decimal
+como um valor double e como um inteiro de trÃªs dÃ­gitos. Da parte inteira separar o nÃºmero que representa
 unidade, dezena e centena e mostrar.*/
 #include <stdio.h>
 int main()
@@ -16,7 +16,7 @@ int main()
     parteDecInt = parteDecimal * 1000; //0.456789 => 456.789
     centena = num / 100; //1
     dezena = parteInteira%100/10;
-    unidade = parteInteira%10;//resto da divisão 
+    unidade = parteInteira%10;//resto da divisÃ£o 
     //saida
     printf("Numero que foi informado: %lf\n", num);
     printf("Parte inteira: %d\n", parteInteira);
