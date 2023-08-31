@@ -1,10 +1,10 @@
 /*7) Calcular o imposto de renda de uma pessoa de acordo com a tabela:
-              Renda anual                            Alíquota*
-            Até R$ 10.000,00                            0%
+              Renda anual                            AlÃ­quota*
+            AtÃ© R$ 10.000,00                            0%
       > R$ 10.000,00 e <= R$ 25.000,00                  10%
         Acima de R$ 25.000,00                           25%
-*Alíquota é o percentual para realizar o cálculo do imposto de renda a ser pago.
-Se informado valor negativo, não realizar o cálculo e informar o usuário.
+*AlÃ­quota Ã© o percentual para realizar o cÃ¡lculo do imposto de renda a ser pago.
+Se informado valor negativo, nÃ£o realizar o cÃ¡lculo e informar o usuÃ¡rio.
 */
 #include <stdio.h>
 
