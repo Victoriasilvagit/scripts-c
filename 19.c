@@ -1,6 +1,6 @@
-/*11) Números palíndromos são aqueles que escritos da direita para a esquerda ou da esquerda para a direita
-tem o mesmo valor. Ex.: 9229, 4554, 9779. Fazer um programa que dado um número de 4 dígitos, calcular e
-escrever se este número é ou não palíndromo.*/
+/*11) NÃºmeros palÃ­ndromos sÃ£o aqueles que escritos da direita para a esquerda ou da esquerda para a direita
+tem o mesmo valor. Ex.: 9229, 4554, 9779. Fazer um programa que dado um nÃºmero de 4 dÃ­gitos, calcular e
+escrever se este nÃºmero Ã© ou nÃ£o palÃ­ndromo.*/
 
 #include <stdio.h>
 
@@ -26,7 +26,7 @@ int main()
     resto = num % 10;
     reverso = reverso * 10 + resto;
 
-   //análilise e saida 
+   //anÃ¡lilise e saida 
     if (original == reverso) 
 	{
         printf("%d eh um palindromo.\n", original);
