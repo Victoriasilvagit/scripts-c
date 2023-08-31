@@ -1,6 +1,6 @@
-/*8) Ler três valores inteiros que representam os lados de um triângulo e determinar se esses valores podem
-formar um triângulo (obs.: para ser um triângulo cada lado deve ser menor que a soma dos outros dois lados).
-Se for um triângulo, determinar o seu tipo: equilátero (todos os lados iguais), isósceles (dois lados iguais) e
+/*8) Ler trÃªs valores inteiros que representam os lados de um triÃ¢ngulo e determinar se esses valores podem
+formar um triÃ¢ngulo (obs.: para ser um triÃ¢ngulo cada lado deve ser menor que a soma dos outros dois lados).
+Se for um triÃ¢ngulo, determinar o seu tipo: equilÃ¡tero (todos os lados iguais), isÃ³sceles (dois lados iguais) e
 escaleno (todos os lados diferentes).*/
 #include <stdio.h>
 
