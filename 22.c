@@ -1,5 +1,5 @@
-/*1) Um ano È bissexto se for divisÌvel por 4 e n„o for divisÌvel por 100. TambÈm s„o bissextos os divisÌveis por 400.
-Escreva um programa que determina se um ano informado pelo usu·rio È bissexto*/
+/*1) Um ano √© bissexto se for divis√≠vel por 4 e n√£o for divis√≠vel por 100. Tamb√©m s√£o bissextos os divis√≠veis por 400.
+Escreva um programa que determina se um ano informado pelo usu√°rio √© bissexto*/
 
 #include <stdio.h>
 
