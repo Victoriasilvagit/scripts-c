@@ -1,4 +1,4 @@
-/*5) (DESAFIO) Obter o resto da divis„o de dois valores inteiros informados pelo usu·rio, sem usar o operador
+/*5) (DESAFIO) Obter o resto da divis√£o de dois valores inteiros informados pelo usu√°rio, sem usar o operador
 de resto.
 */
 #include<stdio.h>
