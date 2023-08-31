@@ -1,5 +1,5 @@
-/*9) Ler um número inteiro com até 3 dígitos. Separar os dígitos desse número e mostrá-los em linhas distintas.
-Na sequência calcular e mostrar o inverso do número.*/
+/*9) Ler um nÃºmero inteiro com atÃ© 3 dÃ­gitos. Separar os dÃ­gitos desse nÃºmero e mostrÃ¡-los em linhas distintas.
+Na sequÃªncia calcular e mostrar o inverso do nÃºmero.*/
 #include <stdio.h>
 
 int main()
