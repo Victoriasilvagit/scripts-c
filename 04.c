@@ -1,5 +1,5 @@
-/*4) Fazer um programa que leia um número inteiro de até três dígitos (considere que será fornecido um
-número de até 3 dígitos), calcule e imprima a soma dos seus dígitos.*/
+/*4) Fazer um programa que leia um nÃºmero inteiro de atÃ© trÃªs dÃ­gitos (considere que serÃ¡ fornecido um
+nÃºmero de atÃ© 3 dÃ­gitos), calcule e imprima a soma dos seus dÃ­gitos.*/
 #include <stdio.h>
 
 int main()
