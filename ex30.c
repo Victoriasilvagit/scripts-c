@@ -8,55 +8,8 @@ Deve ser impresso o valor da d´ıvida para cada motorista e ao final da leitura
 motorista que obteve o maior n´umero de multas.
 Obs.: O programa encerra ao ler a carteira de motorista de valor 0*/
 
-#include <stdio.h>
 
-int main()
-{
-  int cnh, quantMulta, i, cnhMaisMulta=0, maiorQuant=0;
-  float valorMulta, cnhMulta, arrecadado;
-
-  do
-  {
-    cnhMulta=0;
-
-    printf("Digite o numero da cnh: ");
-    scanf("%d", &cnh);
-    if(cnh == 0)
-    {
-      break;
-    }
-
-    printf("Digite a quantidade de multas da cnh: ");
-    scanf("%d", &quantMulta);
-
-
-    
-    for(i=1; i < quantMulta+1; i++)
-    {
-      printf("Digite o valor da %d multa: ", i);
-      scanf("%f", &valorMulta);
-      cnhMulta += valorMulta;
-
-    }
-      arrecadado+=cnhMulta;
-      printf("O valor da divida da cnh %d eh: %.2f R$\n", cnh ,cnhMulta);
-
-    if(maiorQuant < quantMulta )
-    {
-      maiorQuant =  quantMulta;
-      cnhMaisMulta = cnh;
-    }
-
-  } while (cnh >= 1 && cnh<=4327);
-
-  printf("O valor arrecadado eh: %.2f R$\n", arrecadado);
-  printf("O cnh %d tem a maior quantidade de multas", cnhMaisMulta);
-  
-
-  return 0;
-}
-//Minha solução
-/*#include<stdio.h>
+#include<stdio.h>
 
 int main(){
   int carteira, quantmultas, i, maiormulta=0, motorista=0;
@@ -94,4 +47,4 @@ int main(){
   printf("O motorista que obteve  o maior numero de multas foi %d", motorista);
   
   return 0;
-}*/
+}
